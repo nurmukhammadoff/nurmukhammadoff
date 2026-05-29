@@ -1,23 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1E3C72,100:2A5298&text=Islomjon%20Nurmukhammadov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20•%20Mobile%20%26%20Web%20Engineer&descAlignY=58&descSize=18"/>
+# Islomjon Nurmukhammadov
+
+### Flutter Developer • Mobile & Web Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+%26+Web+Applications;Clean+UI%2FUX+Design;Learning+Something+New+Everyday"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Building+Modern+Mobile+Apps;Creating+Beautiful+UI%2FUX;Clean+Architecture+Enthusiast"/>
-
-<br><br>
-
-<a href="https://github.com/USERNAME">
-<img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&label=Followers&color=1F6FEB&labelColor=0D1117"/>
+<a href="https://github.com/nurmukhammadoff">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/USERNAME?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Projects-1F6FEB?style=for-the-badge&logo=github&labelColor=0D1117"/>
+<a href="https://t.me/islom_official">
+<img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://img.shields.io/badge/Telegram-Contact-229ED9?style=for-the-badge&logo=telegram&labelColor=0D1117"/>
+<a href="mailto:nurmukhammadovdeveloper@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -26,22 +26,21 @@
 
 # 👨‍💻 About Me
 
-```yaml
+```yaml id="z5d6s9"
 name: Islomjon Nurmukhammadov
 role: Flutter Developer
 
-specialization:
-  - Flutter Mobile Apps
-  - Flutter Web
+skills:
+  - Flutter
+  - Dart
   - Firebase
-  - REST API Integration
-  - Responsive UI/UX
+  - REST API
+  - Responsive UI
   - Animations
 
 currently_learning:
   - Clean Architecture
   - Backend Development
-  - Advanced Flutter Performance
 ```
 
 ---
@@ -50,39 +49,7 @@ currently_learning:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,androidstudio,html,css&perline=5"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,figma,androidstudio&perline=4"/>
 
 </div>
 
@@ -106,7 +73,7 @@ Modern Flutter Web portfolio with responsive design and smooth animations.
 
 ### 📱 Mobile Applications
 
-Cross-platform Flutter apps with Firebase and scalable architecture.
+Cross-platform Flutter applications with Firebase integration.
 
 </td>
 </tr>
@@ -116,7 +83,7 @@ Cross-platform Flutter apps with Firebase and scalable architecture.
 
 ### 🎨 UI Experiments
 
-Creative Flutter UI concepts and interactive animation designs.
+Creative Flutter UI concepts and interactive animations.
 
 </td>
 
@@ -124,7 +91,7 @@ Creative Flutter UI concepts and interactive animation designs.
 
 ### ⚡ Productivity Apps
 
-Useful applications focused on performance and user experience.
+Useful applications focused on performance and clean user experience.
 
 </td>
 </tr>
@@ -138,27 +105,17 @@ Useful applications focused on performance and user experience.
 
 <div align="center">
 
-<a href="https://t.me/YOUR_TELEGRAM">
-<img src="https://skillicons.dev/icons?i=telegram"/>
-</a>
-
-<a href="mailto:your_email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/USERNAME">
+<a href="https://github.com/nurmukhammadoff">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-</div>
+<a href="https://t.me/islom_official">
+<img src="https://skillicons.dev/icons?i=telegram"/>
+</a>
 
----
-
-# 📈 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=blue"/>
+<a href="mailto:nurmukhammadovdeveloper@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
 </div>
 
@@ -166,8 +123,6 @@ Useful applications focused on performance and user experience.
 
 <div align="center">
 
-### ⚡ “Code is where creativity meets logic.”
+### ⚡ Code • Creativity • Consistency
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1E3C72,100:2A5298"/>
